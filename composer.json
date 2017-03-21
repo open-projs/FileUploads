@@ -1,0 +1,22 @@
+{
+  "name": "valmirsl/FileUloads",
+  "description": "Handle file uploads, validation and storage",
+  "homepage": "https://github.com/valmirsl/FileUploads",
+  "version":"1.0.0",
+  "license": "MIT",
+  "keywords":["file","upload","storage", "form"],
+  "authors": [
+    {
+      "name": "Valmir Santos da Silva",
+      "email": "valmirsl@hotmail.com"
+    }
+  ],
+  "require":{
+      "php": ">=5.4"
+  },
+  "autoload":{
+    "psr-4":{
+        "FileUploads\\": "src/"
+    }
+  }
+}
