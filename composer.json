@@ -1,7 +1,7 @@
 {
   "name": "valmirsl/fileuloads",
   "description": "Handle file uploads, validation and storage",
-  "homepage": "https://github.com/valmirsl/fileuploads",
+  "homepage": "https://github.com/valmirsl/FileUploads",
   "version":"1.0.0",
   "license": "MIT",
   "keywords":["file","upload","storage", "form"],
